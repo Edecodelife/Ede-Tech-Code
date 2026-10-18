@@ -35,9 +35,6 @@
     {"id":16, "file":16, "city":"Warsaw","country":"Poland","image":"poland","ip":"121.191.231.163","active":"true","signal":"q"},
     {"id":17, "file":17, "city":"Melbourne","country":"Australia","image":"australia","ip":"115.69.5.131","active":"true","signal":"r"},
     {"id":18, "file":18, "city":"Milan","country":"Italy","image":"italy","ip":"113.153.97.181","active":"true","signal":"s"},
-     {"id":19, "file":19, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"t"},
-    {"id":20, "file":20, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"u"},
-     {"id":21, "file":21, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"v"},
-    {"id":22, "file":22, "city":"nigeria","country":"nigeria","image":"nigeria","ip":"180.71.167,107","active":"true","signal":"w"},
+    {"id":19, "file":19, "city":"nigeria","country":"nigeria","image":"nigeria","ip":"180.71.167,107","active":"true","signal":"w"},
   ]
 }
